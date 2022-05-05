@@ -1,0 +1,3 @@
+15:58:43.152 [main] INFO  org.Testing_CRM.HomePage - Entered username/password and click on login button.
+15:58:46.307 [AsyncHttpClient-1-13] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+15:58:46.934 [main] INFO  org.Testing_CRM.HomePage - Closed all tabs

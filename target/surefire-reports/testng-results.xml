@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-01T21:23:30 GMT+05:30" name="All Test Suite" finished-at="2022-05-01T21:23:52 GMT+05:30" duration-ms="22088">
+    <groups>
+    </groups>
+    <test started-at="2022-05-01T21:23:30 GMT+05:30" name="Validate Add Candidate Page" finished-at="2022-05-01T21:23:43 GMT+05:30" duration-ms="13669">
+      <class name="org.Testing_CRM.AddCandidatePage">
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:org.Testing_CRM.AddCandidatePage@176b3f44]" started-at="2022-05-01T21:23:30 GMT+05:30" name="openUrl" finished-at="2022-05-01T21:23:37 GMT+05:30" duration-ms="7593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method is-config="true" signature="loginPage()[pri:0, instance:org.Testing_CRM.AddCandidatePage@176b3f44]" started-at="2022-05-01T21:23:37 GMT+05:30" name="loginPage" finished-at="2022-05-01T21:23:38 GMT+05:30" duration-ms="450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method signature="addCandidate()[pri:0, instance:org.Testing_CRM.AddCandidatePage@176b3f44]" started-at="2022-05-01T21:23:38 GMT+05:30" name="addCandidate" finished-at="2022-05-01T21:23:43 GMT+05:30" duration-ms="4995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCandidate -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.Testing_CRM.AddCandidatePage@176b3f44]" started-at="2022-05-01T21:23:43 GMT+05:30" name="closeBrowser" finished-at="2022-05-01T21:23:43 GMT+05:30" duration-ms="596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- org.Testing_CRM.AddCandidatePage -->
+    </test> <!-- Validate Add Candidate Page -->
+    <test started-at="2022-05-01T21:23:43 GMT+05:30" name="Validate Delete Candidate Page" finished-at="2022-05-01T21:23:52 GMT+05:30" duration-ms="8354">
+      <class name="org.Testing_CRM.DeleteCandidatePage">
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:org.Testing_CRM.DeleteCandidatePage@e54303]" started-at="2022-05-01T21:23:43 GMT+05:30" name="openUrl" finished-at="2022-05-01T21:23:47 GMT+05:30" duration-ms="4031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method is-config="true" signature="loginPage()[pri:0, instance:org.Testing_CRM.DeleteCandidatePage@e54303]" started-at="2022-05-01T21:23:47 GMT+05:30" name="loginPage" finished-at="2022-05-01T21:23:48 GMT+05:30" duration-ms="651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method signature="deleteCandidate()[pri:0, instance:org.Testing_CRM.DeleteCandidatePage@e54303]" started-at="2022-05-01T21:23:48 GMT+05:30" name="deleteCandidate" finished-at="2022-05-01T21:23:51 GMT+05:30" duration-ms="3083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCandidate -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.Testing_CRM.DeleteCandidatePage@e54303]" started-at="2022-05-01T21:23:51 GMT+05:30" name="closeBrowser" finished-at="2022-05-01T21:23:52 GMT+05:30" duration-ms="588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- org.Testing_CRM.DeleteCandidatePage -->
+    </test> <!-- Validate Delete Candidate Page -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

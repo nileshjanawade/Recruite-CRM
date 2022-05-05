@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="org.Testing_CRM.Listerners"></listener>
+    </listeners>
+    <test name="Validate Add Candidate Page">
+        <classes>
+            <class name="org.Testing_CRM.AddCandidatePage"/>
+        </classes>
+    </test>
+    <test name="Validate Delete Candidate Page">
+        <classes>
+            <class name="org.Testing_CRM.DeleteCandidatePage"/>
+        </classes>
+    </test>
+    <test name="Validate upload Profile Page">
+        <classes>
+            <class name="org.Testing_CRM.ProfileImgPage"/>
+        </classes>
+    </test>
+    <test name="Validate Dropdown action from TaskAndMeetings Page">
+        <classes>
+            <class name="org.Testing_CRM.TaskAndMeetingsTest"/>
+        </classes>
+    </test>
+</suite>

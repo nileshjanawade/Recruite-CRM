@@ -1,0 +1,10 @@
+15:58:29.686 [main] INFO  org.Testing_CRM.HomePage - Entered username/password and click on login button.
+15:58:32.248 [main] INFO  org.Testing_CRM.HomePage - Deleted candidate successfully
+15:58:32.250 [AsyncHttpClient-1-7] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+15:58:32.812 [main] INFO  org.Testing_CRM.HomePage - Closed all tabs
+15:58:36.167 [main] INFO  org.Testing_CRM.HomePage - Entered the URl and Maximised
+15:58:36.563 [main] INFO  org.Testing_CRM.HomePage - Entered username/password and click on login button.
+15:58:38.714 [AsyncHttpClient-1-10] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+15:58:39.307 [main] INFO  org.Testing_CRM.HomePage - Closed all tabs
+15:58:42.864 [main] INFO  org.Testing_CRM.HomePage - Entered the URl and Maximised
+ 
